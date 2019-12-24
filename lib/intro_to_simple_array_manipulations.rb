@@ -18,7 +18,7 @@ def using_shift
   
 end
 
-def remove_element_from_start_of_array(array)
+def shift_with_args
   []
   array.shift()
 end
