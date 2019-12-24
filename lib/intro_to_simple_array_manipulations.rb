@@ -22,9 +22,8 @@ def shift_with_args
   
 end
 
-def retrieve_element_from_index(array, index_number)
-  []
-  array[2]
+def using_concat
+  
 end
 
 def retrieve_first_element_from_array(array)
