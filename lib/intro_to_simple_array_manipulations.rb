@@ -1,5 +1,5 @@
 def using_push
-  []
+  
 end
 
 def create_an_array
