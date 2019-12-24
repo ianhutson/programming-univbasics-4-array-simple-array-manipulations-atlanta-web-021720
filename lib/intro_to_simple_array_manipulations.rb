@@ -2,13 +2,12 @@ def using_push
   
 end
 
-def create_an_array
- array = ["a", "b", "c", "d"]
+def using_unshift
+ 
 end
 
-def add_element_to_end_of_array(array, element)
-  []
- array.push("arrays!")
+def 
+ 
 end
 
 def add_element_to_start_of_array(array, element)
