@@ -14,7 +14,8 @@ def pop_with_args
   
 end
 
-def 
+def using_shift
+  
 end
 
 def remove_element_from_start_of_array(array)
