@@ -4,7 +4,8 @@ def using_push
 end
 
 def using_unshift
- 
+ x = [1, 2, 3]
+  x.unshift
 end
 
 def using_pop
