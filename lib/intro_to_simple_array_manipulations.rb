@@ -10,12 +10,11 @@ def using_pop
  
 end
 
-def 
+def pop_with_args
+  
 end
 
-def remove_element_from_end_of_array(array)
-  []
-  array.pop()
+def 
 end
 
 def remove_element_from_start_of_array(array)
