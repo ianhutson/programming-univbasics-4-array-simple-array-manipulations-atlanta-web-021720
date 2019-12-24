@@ -19,8 +19,7 @@ def using_shift
 end
 
 def shift_with_args
-  []
-  array.shift()
+  
 end
 
 def retrieve_element_from_index(array, index_number)
