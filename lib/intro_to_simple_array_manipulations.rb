@@ -34,6 +34,6 @@ def using_uniq
   
 end
 
-def update_element_from_index(array, index_number, element)
-  array[3] = "totally"
+def using_flatten
+  
 end
