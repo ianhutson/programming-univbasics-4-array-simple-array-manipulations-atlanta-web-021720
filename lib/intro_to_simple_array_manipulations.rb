@@ -26,9 +26,8 @@ def using_concat
   
 end
 
-def retrieve_first_element_from_array(array)
-  []
-  array[0]
+def using_insert
+ 
 end
 
 def retrieve_last_element_from_array(array)
