@@ -30,9 +30,8 @@ def using_insert
  
 end
 
-def retrieve_last_element_from_array(array)
-  []
-  array[-1]
+def using_uniq
+  
 end
 
 def update_element_from_index(array, index_number, element)
