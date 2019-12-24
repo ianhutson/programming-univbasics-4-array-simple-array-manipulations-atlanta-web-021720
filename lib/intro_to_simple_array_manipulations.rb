@@ -1,5 +1,6 @@
 def using_push
-  
+  x = [1, 2, 3]
+  x.push
 end
 
 def using_unshift
